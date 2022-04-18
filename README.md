@@ -1,5 +1,14 @@
 # testground-github-action
 
+
+## depreciated
+
+A fork of this repo has been created and it has some much-needed improvements.
+Please consider using this fork:
+
+https://github.com/testground/testground-github-action 
+
+
 Submit jobs to [testground](https://testground.ai) and view the outcome in Github.
 
 
